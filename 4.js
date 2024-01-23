@@ -31,4 +31,12 @@
 //   },
 // ];
 
-// Здесь пишем решение, данный комментарий необходимо стереть.
+// const productsWithPhoto = products.filter((product) => {
+//   if ((isNaN(product.photos) !== false) && (product['photos'] !== undefined)) return true
+//   return false 
+// });
+
+// console.log(productsWithPhoto);
+
+// products.sort((a,b) => a.price - b.price);
+// console.log(products);
